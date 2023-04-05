@@ -8,5 +8,5 @@ It start's a as a flat list. With the time sub-READMEs may follow.
 
 
 ## Tools
- - [directus.io](https://directus.io) turns any SQL database into an API and beautiful no-code app
+ - [directus.io](subs/directus.io.md) turns any SQL database into an API and beautiful no-code app
  
