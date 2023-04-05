@@ -77,3 +77,6 @@ DIRECTUS_ADMIN_EMAIL=
 DIRECTUS_ADMIN_PASSWORD=
 DIRECTUS_PUBLIC_URL=
 ```
+
+## Quicklearn 
+ - [https://www.youtube.com/watch?v=h-6DrDjAm_c](https://www.youtube.com/watch?v=h-6DrDjAm_c) Build a CRM and Project Tracker with Directus No-code App Data Studio
