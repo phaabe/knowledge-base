@@ -3,6 +3,8 @@ turns any SQL database into an API and beautiful no-code app.
 A perfect layer to put in front of a database. User's can manage data immediatly. The API enables quick development.
 
  - [https://directus.io](https://directus.io)
+ - [Quickstart](#quickstart-with-docker-compose)
+ - [Quicklearn](#quicklearn)
 
 ## Quickstart with docker-compose
 Create the following two files
@@ -63,6 +65,7 @@ services:
       # only used for e-mails (not needed internaly)
       PUBLIC_URL: ${DIRECTUS_PUBLIC_URL}
 ```
+
 `.env`
 ```
 POSTGRES_VERSION=15.1
