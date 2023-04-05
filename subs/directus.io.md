@@ -5,6 +5,7 @@ A perfect layer to put in front of a database. User's can manage data immediatly
  - [https://directus.io](https://directus.io)
 
 ## Quickstart with docker-compose
+ - create the following two files
 `docker-compose.yaml`
 ```yaml
 version: '3.7'
@@ -77,6 +78,6 @@ DIRECTUS_ADMIN_EMAIL=
 DIRECTUS_ADMIN_PASSWORD=
 DIRECTUS_PUBLIC_URL=
 ```
-
+ - run `docker-compose up -d`
 ## Quicklearn 
  - [https://www.youtube.com/watch?v=h-6DrDjAm_c](https://www.youtube.com/watch?v=h-6DrDjAm_c) Build a CRM and Project Tracker with Directus No-code App Data Studio
