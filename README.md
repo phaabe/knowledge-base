@@ -8,5 +8,8 @@ It start's a as a flat list. With the time sub-READMEs may follow.
 
 
 ## Tools
+### IT
  - [directus.io](subs/directus.io.md) turns any SQL database into an API and beautiful no-code app
  
+### Music
+ - [wavacity.com](https://wavacity.com) web version of Audacity
