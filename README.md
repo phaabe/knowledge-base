@@ -13,3 +13,7 @@ It start's a as a flat list. With the time sub-READMEs may follow.
  
 ### Music
  - [wavacity.com](https://wavacity.com) web version of Audacity
+
+## Resources
+### ML
+ - [mlu-explain.github.io](https://mlu-explain.github.io) Visual explanation of ML core concepts. 
